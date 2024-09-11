@@ -107,6 +107,7 @@
     font-style: normal;
 }
 .section_bottom_text{
+    padding: 70px 0px;
 
 }
 .bottom_text_2{
@@ -117,3 +118,17 @@
 .bottom_text_1{
     line-height: 0px;
 }
+
+.footer .footer_text2 a{
+text-decoration: none;
+ color: #000000;
+ font-family: "SUSE", sans-serif;
+ margin: 5px;
+}
+.footer_text2{
+    text-align: right;
+    padding: 15px 10px;
+}
+
+
+
